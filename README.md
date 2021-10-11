@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-- 💬 I'm studying to become a frontend developer in Gothenburg
+- 💬 I'm studying to become a frontend developer in Gothenburg, Sweden
 - 🌱 I’m currently learning React & TypeScript
-- 🏠 I'm from Sweden
-- 🇸🇪 I speak Swedish, English, French and I'm learning German
 
 [![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
 [![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
@@ -29,4 +27,6 @@
 [![image](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)](#)
 [![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](#)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jack-carling&layout=compact)](#)
+[![](https://github-readme-stats.vercel.app/api?username=jack-carling&show_icons=true)](#)
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=jack-carling&layout=compact)](#)
