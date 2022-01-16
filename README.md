@@ -30,3 +30,7 @@
 [![](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)](#)
 [![](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)](#)
 [![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](#)
+
+[![](https://github-readme-stats.vercel.app/api?username=jack-carling&show_icons=true)](#)
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=jack-carling&layout=compact)](#)
